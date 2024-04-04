@@ -1,0 +1,3 @@
+{"script":{
+    "run": "mkdocs serve"
+}}

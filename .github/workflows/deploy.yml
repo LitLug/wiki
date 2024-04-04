@@ -23,6 +23,7 @@ jobs:
             - name: 安装Mkdocs Material
               run: |
                   pip install mkdocs-material
+                  pip install mkdocs-git-committers-plugin-2
 
             - name: 渲染Html
               run: |

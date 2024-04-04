@@ -15,7 +15,7 @@ jobs:
             - name: 迁出代码
               uses: actions/checkout@master
 
-            - name: 设置Node环境
+            - name: 设置环境
               uses: actions/setup-python@master
               with:
                 python-version: 3.x
@@ -24,7 +24,7 @@ jobs:
               run: |
                   pip install mkdocs-material
 
-            - name: 渲染博客界面
+            - name: 渲染Html
               run: |
                   mkdocs build
 

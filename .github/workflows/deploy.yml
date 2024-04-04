@@ -1,0 +1,35 @@
+name: 同步至 Deploy 分支
+
+on:
+    push:
+        branches:
+            - main
+    #手动触发
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            # 获取源码
+            - name: 迁出代码
+              uses: actions/checkout@master
+
+            - name: 设置Node环境
+              uses: actions/setup-python@master
+              with:
+                python-version: 3.x
+
+            - name: 安装Mkdocs Material
+              run: |
+                  pip install mkdocs-material
+
+            - name: 渲染博客界面
+              run: |
+                  mkdocs build
+
+            - name: 部署到 Deploy 分支 # 部署
+              uses: JamesIves/github-pages-deploy-action@v4.3.3
+              with:
+                  branch: deploy # 部署后提交到的分支
+                  folder: site # 打包好的目录名称

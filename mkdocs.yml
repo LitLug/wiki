@@ -1,6 +1,6 @@
 site_name: Wiki@LitLUG
-site_description: Yurwiki 是 景蓝Yurik 的 私人知识库
-site_author: Yurwiki Team
+site_description: Wiki@LitLUG 是由柳州铁树 Linux 用户协会维护的 GNU/Linux Wiki站点
+site_author: Wiki@LitLUG
 
 repo_name: LitLUG/Wiki
 repo_url: "https://github.com/LitLug/wiki"

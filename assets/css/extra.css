@@ -1,0 +1,12 @@
+.md-typeset p.caption {
+    text-align: center;
+    font-size: .94em;
+    color: grey;
+    margin: -.7em 0 0
+}
+
+.md-typeset img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}

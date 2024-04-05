@@ -40,9 +40,13 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - 欢迎: index.md
   - 指南与规则:
       - 格式风格: rules/styleguide.md
+  - 欢迎: index.md
+  - Linux 简介:
+      - linux-intro/index.md
+      - Linux 发行版: linux-intro/linux-distribution/index.md
 
 extra_css:
   - "assets/css/extra-color.css"
+  - "assets/css/extra.css"

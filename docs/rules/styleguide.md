@@ -141,3 +141,15 @@
 !!! warning "警告 2"
 
     请不要在每页最开始的标题（唯一一个 H1）后添加 `{#id-tag}`，否则可能会出现一些意料之外的显示错误。
+
+## 贡献 {#contribute}
+
+我们欢迎您访问 Wiki 的 [Github 仓库](https://github.com/LitLug/wiki/){:target="\_blank"}来帮助我们修改和提升 [Wiki@LitLUG](//litlug.wiki) 的内容质量。
+
+总的来说，你需要进行以下操作：
+
+1. [Fork 本仓库](https://github.com/LitLug/wiki/fork)
+2. 对即将修改的内容进行认领
+3. 在你 Fork 后的仓库中进行修改
+4. 提交 Pull Requests 并等待合并
+5. 完成

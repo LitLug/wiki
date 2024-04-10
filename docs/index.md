@@ -17,3 +17,11 @@ title: 欢迎
 !!! tip "本 Wiki 部分内容摘录自 Wikipedia 和 《Linux 101》，摘录部分根据原共享协议共享"
 
 !!! tip "本 Wiki 非特殊标识内容均采用 CC BY-SA 4.0 协议共享"
+
+## 成员
+
+**LUG@Lit** 及 Wiki 由以下成员维护
+
+| ![](https://yurik.cafe/favicon/v2/icon@1024px.jpg){.avatar} | ![](https://norph1n.top/usr/themes/Kratos/images/author.jpg){.avatar} |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- |
+| 景蓝 Yurik                                                  | Norph1n                                                               |

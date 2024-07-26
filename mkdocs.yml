@@ -14,7 +14,7 @@ theme:
   favicon: assets/img/irontree.svg
   palette:
     primary: "white"
-    accent: "red"
+    accent: "blue"
   features:
     - navigation.tabs
     - navigation.instant
@@ -41,6 +41,7 @@ markdown_extensions:
 
 nav:
   - 欢迎: index.md
+  - FAQ: faq.md
   - 指南与规则:
       - 格式风格: rules/styleguide.md
   - Linux 简介:

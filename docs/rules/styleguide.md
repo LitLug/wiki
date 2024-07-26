@@ -62,9 +62,9 @@
 
     ```markdown
 
-        ```bash
-            cd /usr/local
-        ```
+     ```bash
+        cd /usr/local
+     ```
 
     ```
 

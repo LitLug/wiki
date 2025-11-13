@@ -22,7 +22,7 @@ title: 欢迎
 
 **LUG@Lit** 及 Wiki 由以下成员维护
 
-| ![](https://yurik.cafe/favicon/v2/icon@1024px.jpg){.avatar} | ![](https://norph1n.top/favicon/v1/avatar.jpg){.avatar} |
+| ![](https://cn.cravatar.com/avatar/ffc39c64bceca32555fa4d957ec03c3d?s=500){.avatar} | ![](https://cn.cravatar.com/avatar/876df8b190a627e229b84ba79496459c?s=500){.avatar} |
 | :---------------------------------------------------------: | :-----------------------------------------------------: |
-|                       **景蓝 Yurik**                        |                       **Norph1n**                       |
+|                       **汐琥 XiHu**                        |                       **Norph1n**                       |
 |              **LitLUG 联合发起人、主要编辑者**              |            **LitLUG 联合发起人、主要编辑者**            |

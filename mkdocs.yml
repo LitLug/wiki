@@ -54,5 +54,5 @@ nav:
           - cd 切换目录: command/file/cd.md
 
 extra_css:
-  - "assets/css/extra-color.css"
-  - "assets/css/extra.css"
+  - "assets/css/extra-color.css?version=251114"
+  - "assets/css/extra.css?version=251114"

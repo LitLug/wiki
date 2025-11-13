@@ -12,6 +12,7 @@ theme:
   language: zh
   logo: assets/img/irontree.svg
   favicon: assets/img/irontree.svg
+  font: false
   palette:
     primary: "white"
     accent: "blue"
